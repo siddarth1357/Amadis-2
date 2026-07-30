@@ -1,0 +1,54 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Changes to be committed:
+#	deleted:    Day-9/.gitignore
+#	deleted:    Day-9/README.md
+#	deleted:    Day-9/package-lock.json
+#	deleted:    Day-9/package.json
+#	deleted:    Day-9/public/favicon.ico
+#	deleted:    Day-9/public/index.html
+#	deleted:    Day-9/public/logo192.png
+#	deleted:    Day-9/public/logo512.png
+#	deleted:    Day-9/public/manifest.json
+#	deleted:    Day-9/public/robots.txt
+#	deleted:    Day-9/src/App.css
+#	deleted:    Day-9/src/App.test.tsx
+#	deleted:    Day-9/src/App.tsx
+#	deleted:    Day-9/src/components/Button.tsx
+#	deleted:    Day-9/src/components/EventDemo.tsx
+#	deleted:    Day-9/src/components/Form.tsx
+#	deleted:    Day-9/src/index.css
+#	deleted:    Day-9/src/index.tsx
+#	deleted:    Day-9/src/logo.svg
+#	deleted:    Day-9/src/react-app-env.d.ts
+#	deleted:    Day-9/src/reportWebVitals.ts
+#	deleted:    Day-9/src/setupTests.ts
+#	deleted:    Day-9/tsconfig.json
+#	deleted:    form-app/.gitignore
+#	deleted:    form-app/.oxlintrc.json
+#	deleted:    form-app/README.md
+#	deleted:    form-app/index.html
+#	deleted:    form-app/package-lock.json
+#	deleted:    form-app/package.json
+#	deleted:    form-app/public/favicon.svg
+#	deleted:    form-app/public/icons.svg
+#	deleted:    form-app/src/App.css
+#	deleted:    form-app/src/App.tsx
+#	deleted:    form-app/src/assets/hero.png
+#	deleted:    form-app/src/assets/react.svg
+#	deleted:    form-app/src/assets/vite.svg
+#	deleted:    form-app/src/index.css
+#	deleted:    form-app/src/main.tsx
+#	deleted:    form-app/src/routeTree.gen.ts
+#	deleted:    form-app/src/routes/__root.tsx
+#	deleted:    form-app/src/routes/feedback/index.tsx
+#	deleted:    form-app/src/routes/index.tsx
+#	deleted:    form-app/src/routes/success.tsx
+#	deleted:    form-app/tsconfig.app.json
+#	deleted:    form-app/tsconfig.json
+#	deleted:    form-app/tsconfig.node.json
+#	deleted:    form-app/vite.config.ts
+#
